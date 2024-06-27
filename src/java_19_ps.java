@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class java_ch4_ps {
+public class java_19_ps {
     public static void main(String[] args) {
 
 //        Question2

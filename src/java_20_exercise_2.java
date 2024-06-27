@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class java_exercise_2 {
+public class java_20_exercise_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
