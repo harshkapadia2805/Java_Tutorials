@@ -59,7 +59,7 @@ public class java_113_exercise_7_sol {
         l.addBook(new Book("Algorithm5","CLRS5"));
         System.out.println(l.books);
 
-        l.issueBook(b4, "Harsh");
+        l.issueBook(b4," Harsh");
         System.out.println(l.books);
     }
 }

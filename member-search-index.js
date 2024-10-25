@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"java_113_exercise_7_sol","l":"java_113_exercise_7_sol()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"java_113_exercise_7_sol","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
+memberSearchIndex = [{"p":"<Unnamed>","c":"java_106_javadoc","l":"add(int, int)","u":"add(int,int)"},{"p":"<Unnamed>","c":"java_106_javadoc","l":"java_106_javadoc()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"java_106_javadoc","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
